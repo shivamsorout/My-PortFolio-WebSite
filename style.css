@@ -90,6 +90,9 @@ nav ul li a:hover::before{
 .header-text h1 #country{
     color: #00ff22;
 }
+#country{
+    color: #00ff22;
+}
 
 
 /* ---------------------------------- About Seaction ----------------------------------  */
